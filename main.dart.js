@@ -63186,7 +63186,7 @@ a2j(a,b,c){return this.fZ(a,B.z,null,null,b,c)},
 a2k(a,b,c,d){return this.fZ(a,B.z,b,c,d,null)},
 a2h(a,b,c){return this.fZ(a,b,null,c,null,null)}}
 A.Fp.prototype={
-M(a){return new A.v5("/home",new A.ZL(),"T&T Wedding",A.alh(null,"Text",B.ex,null),null)}}
+M(a){return new A.v5("/",new A.ZL(),"T&T Wedding",A.alh(null,"Text",B.ex,null),null)}}
 A.ZL.prototype={
 $1(a){return A.ak6(new A.ZK(),null,t.z)},
 $S:385}
